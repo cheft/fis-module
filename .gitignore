@@ -1,0 +1,17 @@
+*.
+*.swp
+*.bak
+*~
+*.~ml
+*.orig
+*.msi
+.DS_Store
+
+.settings
+.project
+node_modules
+bower_components
+lib
+
+v.js
+modules/**/*.js
